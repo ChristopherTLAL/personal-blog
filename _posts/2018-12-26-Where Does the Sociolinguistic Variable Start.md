@@ -5,8 +5,6 @@ date: 2018-12-26
 tag: short essay
 ---
 
-# Where Does the Sociolinguistic Variable Start?
-
 # 1. Introduction
 
 The article under examination is *Where does the sociolinguistic variable stop?*

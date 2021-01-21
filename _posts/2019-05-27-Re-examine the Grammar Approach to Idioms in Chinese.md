@@ -5,8 +5,6 @@ date: 2019-05-27
 tag: short essay
 ---
 
-Re-examine the Grammar Approach to Idioms in Chinese
-
 # Introduction
 
 Scholars have modified the definition of idiom and idiomaticity significantly,
