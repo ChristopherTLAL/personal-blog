@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Colonial Invasion and English as a Global Language"
-date: 2016-12-16
+title: "CDA and Vice-Presidential Debate of 2012"
+date: 2017-12-01
 tag: short essay
 ---
 
