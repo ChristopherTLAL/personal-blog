@@ -1,123 +1,169 @@
 ---
 layout: default
 ---
+Shijie [ʂʅ<sup>51</sup> tɕjɛ<sup>35</sup>] Wang, who was graduated from Xi'an Jiaotong-Liverpool University, is interested in Psycholinguistics, Bi/Multilingualism, Individual Difference, and Quantitative Research Method.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Email: <christophertlal@outlook.com>
 
-[Link to another page](./another-page.html).
+Research Gate: <https://www.researchgate.net/profile/Shijie_Wang16>
 
-There should be whitespace between paragraphs.
+ORCID: <https://orcid.org/0000-0003-2624-8103>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Tel: +86 15370023313
 
-# Header 1
+### EDUCATION
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+|Institution|Span|
+|---------------------------------------------------|---------------------------------------|
+| Xi’an Jiaotong-Liverpool University (XJTLU)       | 2016 - 2020                           |
+| Bachelor of Arts in Applied English (First Class) | Issued by the University of Liverpool |
 
-## Header 2
+### Awards, fundings, & Certificates
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+|Awards|Institution|
+|--------------------------------------------------------------------------------------------------|-------|
+| Best Overall Academic Performance (Ranked the first among all graduates in the Dept. of English) | XJTLU |
+| University Academic Excellence Award (Top 5%; Academic Year 2018/2019)                           | XJTLU |
+| Summer Undergraduate Research Fellowship (Academic Year 2018/2019)                               | XJTLU |
+| University Outstanding Student Award (Academic Year 2017/2018)                                   | XJTLU |
+| Outstanding Undergraduate Research Award (Academic Year 2017/2018)                               | XJTLU |
+| Recognition Award of the 8th National Competition of Interpretation                              |       |
+| Chinese Accreditation for Translation and Interpretation (Level 3)                               |       |
 
-### Header 3
+### Research
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*The symbol \* is indicative of the corresponding author*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Publication**
 
-#### Header 4
+>   Wei, Rining., Liu, He., & **Wang, Shijie\*** (2020) ‘Exploring “L2 grit” in
+>   the Chinese EFL Context’. *System.* 93. doi:10.1016/j.system.2020.102295.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Conference Presentation**
 
-##### Header 5
+>   **Wang, Shijie** (2018) ‘Exploring the Gendered Stylistic Features of
+>   Novelists between 1719 to 2000: From a Corpus-based Text Analysis
+>   Perspective’. *Departmental Undergraduate Research Event*. Suzhou, China.
+>   doi:10.13140/RG.2.2.19054.02889. [supervisor: Dr Steve Jacob]
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+>   **Wang, Shijie** (2019) ‘What’s Wrong with my Dragon! A Survey-based Study
+>   on Cultural Categorisation of “Dragon”’. *XJTLU Annual Undergraduate
+>   Research-led Education Competition.* Suzhou, China.
+>   doi:10.13140/RG.2.2.35831.24488. [supervisor: Dr Penelope Scott]
 
-###### Header 6
+>   Wei, Rining. & **Wang, Shijie\*** (2019) ‘Exploring “L2 grit” in the Chinese
+>   EFL Context’. *The 17th Asia Teaching English as a Foreign Language (TEFL)
+>   International Conference.* Bangkok, Thailand.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+>   **Wang, Shijie.**, Wang, Hanyu., Luo, Xiangyi., & Wei, Rining\* (2019) ‘The
+>   Psychological Variables in Bilingualism Research: A Meta-analysis on Five
+>   SSCI Journals’. *Summer Undergraduate Research Fellowship (SURF) Conference
+>   of Xi’an Jiaotong-Liverpool University.* Suzhou, China.
 
-### There's a horizontal rule below this.
+>   **Wang, Shijie\*** (2020) ‘Positive Personalities and L2 Achievement: The
+>   Mediating Role of Positive Emotions’ [Multimodal Presentation] *The 9th
+>   International Conference on English Language Teaching (ELT).* Beijing,
+>   China. doi:10.13140/RG.2.2.12266.13762
 
-* * *
+>   Wei, Rining., & **Wang, Shijie\*** (2020) ‘The Relationship between
+>   Tolerance of Ambiguity and Multilingualism Revisited’. *The 9th
+>   International Conference on English Language Teaching (ELT).* Beijing,
+>   China.
 
-### Here is an unordered list:
+>   Wei, Rining., & **Wang, Shijie\*** (to be held, postponed to 2021 due to
+>   Covid-19) ‘Language Learning Publications in the Web of Science: a
+>   Scientometric Analysis Using CiteSpace’ *World Congress of Applied
+>   Linguistics (AILA2020)*. Groningen, Netherlands.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+>   Liu, Heyang., & **Wang, Shijie\*** (to be held, postponed to 2021 due to
+>   Covid-19) ‘Localisation of Four Important L2 Positive Psychological
+>   Instruments in the Chinese EFL Context’ *World Congress of Applied
+>   Linguistics (AILA2020)*. Groningen, Netherlands.
 
-### And an ordered list:
+>   **Other Research Experience**
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+>   Wei, Rining\*., & **Wang, Shijie** (2019) ‘40 Years of Chinese
+>   Foreign Language Education: The Development after the Reform and Opening-up’
+>   (改革开放40年中国外语教学进程) [unpublished policy report]
 
-### And a nested list:
+>   Wei, Rining., Kang, Yifan., & **Wang, Shijie**\* (major revision) ‘The
+>   Relationship between Tolerance of Ambiguity and Multilingualism Revisited’
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+>   **Wang, Shijie.,** & Wei, Rining\* (under review) ‘Does L2 Enjoyment mediate
+>   the Relationship between Tolerance of Ambiguity and L2 Achievement? A
+>   structural equation modelling approach’
 
-### Small image
+### Teaching
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+|Course & Role|Institution & Span|
+|-----------------------------------------|----------------------------------------------|
+| **ENG115 English as a Global Language** | Dept. of English, XJTLU                      |
+| *Teaching Assistant*                    | Sept. 2019 – Jan. 2020 Sept. 2020 –Jan. 2021 |
+| **ENG216 Bilingualism**                 | Dept. of English, XJTLU                      |
+| *Teaching Assistant*                    | Feb. 2020 – July 2020                        |
+| **Linguistics in Daily Life**           | Student-led Optional Course, XJTLU           |
+| *Student Lecturer*                      | Mar. 2019 - June 2019                        |
+| **Exploring Applied Linguistics**       | Student-led Optional Course, XJTLU           |
+| *Student Lecturer*                      | Oct. 2020 –December 2020                     |
+| **Research-Led Education**              | Student-led Optional Course, XJTLU           |
+| *Student Lecturer*                      | Nov. 2019 – present (until June 2021)        |
 
-### Large image
+### Employment
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+|Institution|Span|
+|-------------------------------------|------------------------|
+| **HongShan Education**              |                        |
+| *IELTS trainer*                     | June 2018 - Sept. 2018 |
+| **Alibaba Translate (outsourcing)** |                        |
+| *Translator (as freelancer)*        | April 2018 – Oct. 2018 |
+| **University Museum**               | XJTLU                  |
+| *Narrator & Interpreter (Intern)*   | Sept. 2018 - present   |
+| **Simultaneous Interpretation Lab** | XJTLU                  |
+| *Administrator*                     | Sept. 2019 - Jan. 2020 |
 
+### Service
 
-### Definition lists can be used with HTML syntax.
+|Organisation & Role|Institution & Span|
+|-------------------------------------|------------------------------|
+| **Student-Staff Liaison Committee** | Department of English, XJTLU |
+| *Chair*                             | Oct. 2018 - Aug. 2019        |
+| **Coursera**                        |                              |
+| *Translator (Volunteer)*            | Nov. 2017 - present          |
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Membership
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+|Organisation|Span|
+|--------------------------------------|-----------------------|
+| Translators Association of China     | Sept. 2019 - present  |
+| Chinese Debating Club of XJTLU       | Oct. 2016 - Aug. 2018 |
+| Chinese Young Volunteers Association | Oct. 2016 - Aug. 2017 |
 
-```
-The final element.
-```
+### Skills
+
+| **Statistics**                                                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *IBM SPSS, IBM Amos, JASP*                                                                                                                                                                                                        |
+| *R*                                                                                                                                                                                                                               |
+| Relevant Skills: Basic Descriptive and Inferential Statistics, Reliability and Validity Test, Effect Size Reporting and Interpreting, Meta-Analysis, Structural Equation Modelling, Mediating Analysis, Moderating Analysis, etc. |
+
+| **Scientometric Analysis**                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *CiteSpace*                                                                                                                                                                                                                       |
+| Relevant Skills: Cluster Analysis, Burst Detection and Visualization, Co-Citation Network Analysis, etc.                                                                                                                          |
+
+| **Corpus**                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *The Prime Machine, AntConc*                                                                                                                                                                                                      |
+| *Multidimensional Analysis Tagger*                                                                                                                                                                                                |
+| Relevant Skills: Keyword Analysis, Collocation Analysis, Bayesian Approach of Corpus Analysis, etc.                                                                                                                               |
+
+| **Text Analysis**                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *NVivo*                                                                                                                                                                                                                           |
+| Relevant Skills: Cluster Analysis, Text Processing, Thematic Analysis, Emotion Analysis, etc.                                                                                                                                     |
+
+| **Other Skills**                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Data Visualisation:** *Tableau*                                                                                                                                                                                                 |
+| Computer-aided Translation: *SDL Trados; MemoQ*                                                                                                                                                                                   |
+| Literature Management: *Endnote; Mendeley; Zotero*                                                                                                                                                                                |
