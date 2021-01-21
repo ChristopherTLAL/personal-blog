@@ -10,8 +10,6 @@ Research Gate: <https://www.researchgate.net/profile/Shijie_Wang16>
 
 ORCID: <https://orcid.org/0000-0003-2624-8103>
 
-Tel: +86 15370023313
-
 ### EDUCATION
 
 |Institution|Span|
