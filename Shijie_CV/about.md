@@ -1,15 +1,8 @@
 ---
 layout: post
-title: "Experiences"
+title: "Curriculum Vitae"
 permalink: /Shijie_CV/
 ---
-
-Email: <christophertlal@outlook.com>
-
-Research Gate: <https://www.researchgate.net/profile/Shijie_Wang16>
-
-ORCID: <https://orcid.org/0000-0003-2624-8103>
-
 ### EDUCATION
 
 |Institution|Span|
