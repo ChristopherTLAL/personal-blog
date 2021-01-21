@@ -111,18 +111,20 @@ whereas the Chinese teacher setting was the least.
 
 Table 1: Descriptive Statistics of Intercultural Awareness
 
-|                                                                                   |                  |              |                             |       |       |
-|-----------------------------------------------------------------------------------|------------------|--------------|-----------------------------|-------|-------|
-|                                                                                   | Statistic        | *Bootstrap*a |                             |       |       |
-|                                                                                   |                  | *Std. Error* | BCa 95% Confidence Interval |       |       |
-|                                                                                   |                  |              | Lower                       | Upper |       |
-| Native                                                                            | *Mean*           | 5.75         | .28                         | 5.21  | 6.26  |
-|                                                                                   | *Std. Deviation* | 1.545        | .229                        | 1.106 | 1.849 |
-| Non-Native                                                                        | *Mean*           | 6.22         | .23                         | 5.76  | 6.59  |
-|                                                                                   | *Std. Deviation* | 1.313        | .323                        | .813  | 1.813 |
-| Chinese                                                                           | *Mean*           | 4.22         | .31                         | 3.59  | 4.81  |
-|                                                                                   | *Std. Deviation* | 1.736        | .193                        | 1.383 | 1.998 |
-| a. Unless otherwise noted, bootstrap results are based on 1,000 bootstrap samples |                  |              |                             |       |       |
+|            |                  |              |                             |       |       |
+|------------|------------------|--------------|-----------------------------|-------|-------|
+|            | Statistic        | *Bootstrap*a |                             |       |       |
+|            |                  | *Std. Error* | BCa 95% Confidence Interval |       |       |
+|            |                  |              | Lower                       | Upper |       |
+| Native     | *Mean*           | 5.75         | .28                         | 5.21  | 6.26  |
+|            | *Std. Deviation* | 1.545        | .229                        | 1.106 | 1.849 |
+| Non-Native | *Mean*           | 6.22         | .23                         | 5.76  | 6.59  |
+|            | *Std. Deviation* | 1.313        | .323                        | .813  | 1.813 |
+| Chinese    | *Mean*           | 4.22         | .31                         | 3.59  | 4.81  |
+|            | *Std. Deviation* | 1.736        | .193                        | 1.383 | 1.998 |
+
+a. Unless otherwise noted, bootstrap results are based on 1,000 bootstrap
+samples
 
 Together with the interview data, it seems that the participants rate the ICA
 based on their perception of the distance between the teacher and them. All
@@ -157,7 +159,6 @@ Table 2: Correlations among the constructsa
 |-------|----------------|----------|--------|----------|---------------|---------------|---------------|--------|
 | NWTC  | NNWTC          | CWTC     | NICA   | NNICA    | CICA          | ICC           |               |        |
 | NWTC  |                | [.662]b  |        |          |               |               |               |        |
-|       |                |          |        |          |               |               |               |        |
 | NNWTC | *Spearman’s r* | .687\*\* | [.795] |          |               |               |               |        |
 |       | *Sig. (p)*     | .000     |        |          |               |               |               |        |
 | CWTC  | *Spearman’s r* | .384\*   | .445\* | [.797]   |               |               |               |        |
@@ -170,8 +171,6 @@ Table 2: Correlations among the constructsa
 |       | *Sig. (p)*     | .588     | .286   | .289     | .902          | .431          |               |        |
 | ICC   | *Spearman’s r* | .230     | .175   | .437\*   | .279          | .202          | .178          | [.737] |
 |       | *Sig. (p)*     | .206     | .337   | .012     | .122          | .267          | .330          |        |
-|       |                |          |        |          |               |               |               |        |
-|       |                |          |        |          |               |               |               |        |
 
 a NWTC = Native Willingness to Communicate; NNWTC = Non-native Willingness to
 Communicate; CWTC = Chinese Willingness to Communicate; NICA = Native
