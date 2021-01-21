@@ -112,8 +112,9 @@ study's precondition.
 Table 1 (QS1Q2.3.4.): The answer for "To what extent, do you like to choose to
 be an English teacher in your future?"
 
-|                             | Levene's Test | t-test for Equality of Means |         |        |           |                 |                       |            |         |
+|                             |               |                              |         |        |           |                 |                       |            |         |
 |-----------------------------|---------------|------------------------------|---------|--------|-----------|-----------------|-----------------------|------------|---------|
+|                             | Levene's Test | t-test for Equality of Means |         |        |           |                 |                       |            |         |
 |                             | F             | Sig.                         | t       | df     | Sig. (2t) | Mean Difference | Std. Error Difference | 95% CI (D) |         |
 |                             |               |                              |         |        |           |                 |                       | Lower      | Upper   |
 | Equal variances assumed     | 9.240         | .004                         | \-5.039 | 48     | .000      | \-1.750         | .347                  | \-2.448    | \-1.052 |
@@ -131,8 +132,9 @@ terms of the examination of ELF (p\>0.05, r=0.02).
 Table 2: Independent Samples Test for the comprehension of WE and ELF between
 two majors
 
-|                                                             | Levene's Test               | t-test for Equality of Means |      |        |           |                 |                       |          |        |       |
+|                                                             |                             |                              |      |        |           |                 |                       |          |        |       |
 |-------------------------------------------------------------|-----------------------------|------------------------------|------|--------|-----------|-----------------|-----------------------|----------|--------|-------|
+|                                                             | Levene's Test               | t-test for Equality of Means |      |        |           |                 |                       |          |        |       |
 |                                                             | F                           | Sig.                         | t    | df     | Sig. (2t) | Mean Difference | Std. Error Difference | CI-Diff. |        |       |
 |                                                             |                             |                              |      |        |           |                 |                       | Lower    | Upper  |       |
 | Do you familiar with the term "World Englishes"?            | Equal variances assumed     | .435                         | .513 | 2.441  | 48        | .018            | .640                  | .262     | .113   | 1.167 |
@@ -173,8 +175,9 @@ Table 4: The answer for L2Q2
 
 Table 3: The answer to L2Q1
 
-| Major                                 | Frequency | Percent | Valid Percent | Cumulative Percent |       |       |
+|                                       |           |         |               |                    |       |       |
 |---------------------------------------|-----------|---------|---------------|--------------------|-------|-------|
+| Major                                 | Frequency | Percent | Valid Percent | Cumulative Percent |       |       |
 | Applied English/English related major | Valid     | A       | 14            | 41.2               | 41.2  | 41.2  |
 |                                       |           | B       | 20            | 58.8               | 58.8  | 100.0 |
 |                                       |           | Total   | 34            | 100.0              | 100.0 |       |
@@ -213,24 +216,24 @@ displays that the participants do not despise non-native-like accent.
 
 Table 5: MGT result – Mean Diff.
 
-| Items        | Means  |       |           |
-|--------------|--------|-------|-----------|
-|              | CE     | SE    | Diff.     |
-| Friendly     | 2.855/ | 3.325 | .47\*\*   |
-| Intelligent  | 2.890/ | 3.155 | .26\*\*   |
-| Arrogant     | 3.025/ | 2.612 | \-.41\*\* |
-| Competent    | 2.800/ | 3.041 | .24\*\*   |
-| Industrious  | 2.950/ | 3.370 | .42\*\*   |
-| Sincere      | 2.925/ | 3.045 | .12\*     |
-| Aggressive   | 3.055/ | 2.675 | \-.38\*\* |
-| Approachable | 2.655/ | 2.720 | .07       |
-| Considerable | 2.845/ | 3.140 | .29\*\*   |
-| Trustworthy  | 2.920/ | 3.005 | .08       |
-| Wealthy      | 2.720/ | 3.125 | .40\*\*   |
-| Trendy       | 2.735/ | 3.035 | .30\*\*   |
-| Patient      | 3.190/ | 3.215 | .02       |
-| Powerful     | 2.695/ | 3.015 | .32\*\*   |
-| Confident    | 2.820/ | 3.335 | .52\*\*   |
+| Items        | Means |       |           |
+|--------------|-------|-------|-----------|
+|              | CE    | SE    | Diff.     |
+| Friendly     | 2.855 | 3.325 | .47\*\*   |
+| Intelligent  | 2.890 | 3.155 | .26\*\*   |
+| Arrogant     | 3.025 | 2.612 | \-.41\*\* |
+| Competent    | 2.800 | 3.041 | .24\*\*   |
+| Industrious  | 2.950 | 3.370 | .42\*\*   |
+| Sincere      | 2.925 | 3.045 | .12\*     |
+| Aggressive   | 3.055 | 2.675 | \-.38\*\* |
+| Approachable | 2.655 | 2.720 | .07       |
+| Considerable | 2.845 | 3.140 | .29\*\*   |
+| Trustworthy  | 2.920 | 3.005 | .08       |
+| Wealthy      | 2.720 | 3.125 | .40\*\*   |
+| Trendy       | 2.735 | 3.035 | .30\*\*   |
+| Patient      | 3.190 | 3.215 | .02       |
+| Powerful     | 2.695 | 3.015 | .32\*\*   |
+| Confident    | 2.820 | 3.335 | .52\*\*   |
 
 Note. \*\*p\<0.01, \*p\<0.05, CE=China English, SE=Standard English
 
