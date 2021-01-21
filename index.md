@@ -1,1 +1,1 @@
-**All Posts**
+# All Posts
