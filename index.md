@@ -1,2 +1,2 @@
 # Recent Posts
-![](https://github.com/ChristopherTLAL/personal-blog/blob/master/Picture1.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/Picture1.png)
