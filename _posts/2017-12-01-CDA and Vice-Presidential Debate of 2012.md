@@ -111,7 +111,7 @@ illustrates that there are specific stresses of “Governor Romney”, who was
 contrasted with the “president”, which intended to raise the insignificance of
 the individual.
 
-![8609f3012639f5575bd965fcb213b00a.png](media/8609f3012639f5575bd965fcb213b00a.png)
+![8609f3012639f5575bd965fcb213b00a.png](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/8609f3012639f5575bd965fcb213b00a.png)
 
 **Chart A**
 
@@ -164,7 +164,7 @@ to present this controversy, the Antconc was used again to analyse these two
 different naming measures. Compared with Chart A, Chart B is the keywords of
 Ryan which indicates that the term “Obama” is a specific one in the discourse.
 
-![91cf55026beef5956672e5f7e54c1bc7.png](media/91cf55026beef5956672e5f7e54c1bc7.png)
+![91cf55026beef5956672e5f7e54c1bc7.png](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/91cf55026beef5956672e5f7e54c1bc7.png)
 
 **Chart B**
 
