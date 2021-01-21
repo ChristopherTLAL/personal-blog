@@ -1,1 +1,1 @@
-# All Posts
+# Recent Posts
