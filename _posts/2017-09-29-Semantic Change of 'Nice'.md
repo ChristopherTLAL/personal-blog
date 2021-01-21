@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Semantic Change of 'Nice'"
+date: 2017-09-29
+tag: short essay
+---
 
 After enacting the legislation about homosexual marriage in multiple countries,
 the meanings of term ‘marriage’, ‘husband’, and ‘wife’ have changed gradually.
