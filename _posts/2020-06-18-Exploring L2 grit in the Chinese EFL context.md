@@ -2,8 +2,13 @@
 layout: post
 title: "Exploring L2 grit in the Chinese EFL context"
 date: 2020-06-18
+tag: article
 ---
-https://doi.org/10.1016/j.system.2020.102295
+Journal: *System*
+
+Volume 93, October 2020, 102295
+
+[https://doi.org/10.1016/j.system.2020.102295](https://doi.org/10.1016/j.system.2020.102295)
 
 **Abstract**
 
