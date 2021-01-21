@@ -151,7 +151,7 @@ against male one was calculated manifested by *Chart D*. It seems that female
 writers will use more contractions regarded as colloquial form and less formal
 form of language, which is also confirmed by *Chart E*.
 
-![](media/adff06a90f36f1afbb78c57caf8542ea.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/adff06a90f36f1afbb78c57caf8542ea.png)
 
 Chart D: Key Keyword- female corpus against the male corpus
 
@@ -259,15 +259,15 @@ is realised that male writers possibly use more positive terms.
 
 Positive:
 
-![](media/81c0a966fc874e0eb8c099a83c77960e.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/81c0a966fc874e0eb8c099a83c77960e.png)
 
 Negative:
 
-![](media/b4973a06c65f35f07d95ff16e1a4613e.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/b4973a06c65f35f07d95ff16e1a4613e.png)
 
 Uncertainty:
 
-![](media/588cb543ceb7e14562084a5fc0b4b9e7.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/588cb543ceb7e14562084a5fc0b4b9e7.png)
 
 Chart I: Positive, Negative, Uncertainty word comparison
 
@@ -280,7 +280,7 @@ attested to be produced by the topics, for example, almost all the “castle” 
 from the same novel *The Bloody Chamber* and the “bird” is a name in *Uncle
 Tom’s Cabin*.
 
-![](media/bcc966195c828cb562206d4439388618.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/bcc966195c828cb562206d4439388618.png)
 
 Chart J: Keyword-female corpus against male corpus
 
@@ -293,7 +293,7 @@ However, after examining the concordance line, it is proven that “answered”,
 male-writer corpus, the term “boat” and “arrival” are considered to be the
 irrelevant results created by this certain genre.
 
-![](media/fc019fa65bc9bfcfd9adf844f3eecb2f.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/fc019fa65bc9bfcfd9adf844f3eecb2f.png)
 
 Chart K: Keyword-male corpus against female corpus
 
