@@ -41,12 +41,21 @@
       <section>
 
       {{ content }}
-
+    
+        <div id="home">
+    <h2>All Posts</h2>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.*title* }}</a></li>
+        {% endfor %}
+    </ul>
+    </div>
       </section>
       <footer>
         <p>Email me: christopher@linguist.top</p>
       </footer>
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
