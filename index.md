@@ -1,2 +1,2 @@
 # Recent Posts
-![](/picture1)
+![](/picture1.png)
