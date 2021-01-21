@@ -74,7 +74,7 @@ different formations of language are assigned with different construction types
 Table 2.1: 'examples of constructions, varying in size and complexity'
 (Goldberg, 2006, p. 5)
 
-![](media/d8dbc97c9ad6381d9324b3d60ebd3f73.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/d8dbc97c9ad6381d9324b3d60ebd3f73.png)
 
 The present essay, corresponding to the cognitive explanation to the feature of
 idiomaticity, attempts to further consider the relation between lexicon and
@@ -98,7 +98,7 @@ creation, which both involves the combination of Chinese characters.
 [^1]: (there is still opposite ideas, and more details can see Bates, Chen, Li,
     Opie, & Tzeng, 1993 and also the references within)
 
-![](media/f2608556ffc8f98459103e2b35386631.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/f2608556ffc8f98459103e2b35386631.png)
 
 Table 2.2 Comparison of Verb Conjugation Between Chinese and English
 
@@ -141,9 +141,9 @@ ancient Chinese read texts and separated sentences based on their preliminary
 knowledge of some sentence-level cooccurrence. It seems to prove that a long
 sentence can be a semantic unit as well.
 
-![https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558618806434&di=578e414d37f46f43be6249081648cf77&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3997506913%2C3625295511%26fm%3D214%26gp%3D0.jpg](media/5e1b9b72b071d5eee2dfe62cbf4e412f.jpeg)
+![https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558618806434&di=578e414d37f46f43be6249081648cf77&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3997506913%2C3625295511%26fm%3D214%26gp%3D0.jpg](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/5e1b9b72b071d5eee2dfe62cbf4e412f.jpeg)
 
-![https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558618850210&di=8fdc4aff44d212afa09037d674c2a9bd&imgtype=0&src=http%3A%2F%2Fs2.sinaimg.cn%2Fbmiddle%2F4cc04fe15c371e3616df1](media/5b422f974d37ef78b42a37007529f75f.jpeg)
+![https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558618850210&di=8fdc4aff44d212afa09037d674c2a9bd&imgtype=0&src=http%3A%2F%2Fs2.sinaimg.cn%2Fbmiddle%2F4cc04fe15c371e3616df1](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/5b422f974d37ef78b42a37007529f75f.jpeg)
 
 Figure 3.1: Chinese Texts without Punctuation
 
@@ -243,7 +243,7 @@ model based on Howarth's (1998) one.
 Table 5.1 classification scheme for multi-word expressions (Fernando, 1996, p.
 32)
 
-![](media/6246a683d2b18844802e867be1fdd25c.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/6246a683d2b18844802e867be1fdd25c.png)
 
 The first two central concentrations are the beginning and ending of the model.
 The endings of Howarth's (1998) continuum of multiword expression are formal
@@ -308,7 +308,7 @@ idioms will be reconstructed to be four-character ones which is a prestigious
 form in language use. Limited by the length of this essay, more investigations
 will not be provided here.
 
-![](media/0d975ba0fe3c6c939f014c87a351fad3.png)
+![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/0d975ba0fe3c6c939f014c87a351fad3.png)
 
 Chart 5.2: Model for Construction Development
 
