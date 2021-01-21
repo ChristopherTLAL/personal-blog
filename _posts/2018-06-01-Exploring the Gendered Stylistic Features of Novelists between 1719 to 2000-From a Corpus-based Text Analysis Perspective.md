@@ -6,8 +6,7 @@ tag: short essay
 ---
 
 This essay was presented in the 2018 Departmental Undergraduate Research Event.
-The poster could be found in
-[here](<https://www.researchgate.net/publication/344460182_Exploring_the_Gendered_Stylistic_Features_of_Novelists_between_1719_to_2000_From_a_Corpus-based_Text_Analysis_Perspective?channel=doi&linkId=5f7871d9a6fdcc0086529587&showFulltext=true>).
+The poster could be found [here](<https://www.researchgate.net/publication/344460182_Exploring_the_Gendered_Stylistic_Features_of_Novelists_between_1719_to_2000_From_a_Corpus-based_Text_Analysis_Perspective?channel=doi&linkId=5f7871d9a6fdcc0086529587&showFulltext=true>).
 
 It is found that the charts in this post cannot be loaded, please email me if
 you do want have a look
