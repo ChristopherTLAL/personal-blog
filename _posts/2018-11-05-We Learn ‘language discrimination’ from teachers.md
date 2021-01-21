@@ -64,7 +64,7 @@ conducted primarily on three research questions:
 
 ## Method
 
-# Instrument
+### Instrument
 
 For ascertaining RQ1, questionnaire survey 1 was conducted to quantify TESOL
 students' and English major students' comprehension on the WE and ELF paradigm.
@@ -91,7 +91,7 @@ analyse the sample's preference of the pedagogical model. Some interview
 questions may be identical to the former survey ones, which can be used to
 verify the results tested via different instruments.
 
-# Participant
+### Participant
 
 Total 50 participants (undergraduate n=34, postgraduate n=16) finished the
 questionnaire survey which estimates their knowledge of WE or ELF. All the
@@ -103,7 +103,7 @@ TESOL students participated in the interview.
 
 ## Finding
 
-# Questionnaire Survey 1
+### Questionnaire Survey 1
 
 Table 1 presents that undergraduates do have a comparatively low inclination to
 be an English teacher in their future (p\<0.0005, r=0.67), which verifies this
@@ -138,7 +138,7 @@ terms of the examination of ELF
 
 (p\>0.05, r=0.02).
 
-# Questionnaire Survey 2
+### Questionnaire Survey 2
 
 With reference to Table 3, 54% (N=27) of the participants (or their students)
 prefer to be like "can pronounce English clearly … but … have the accent of my
@@ -189,7 +189,7 @@ grammar applied by native speakers. Among them, 55.2% claimed that a high-level
 capability on all kinds of grammar can facilitate communication, especially via
 reducing the misinterpreting and ambiguous discourse.
 
-# MGT
+### MGT
 
 As the Match-guises Technique outcomes are not statistically significant on the
 American English and British English, these two cohorts are merged to be one
@@ -230,7 +230,7 @@ displays that the participants do not despise non-native-like accent.
 
 Note. \*\*p\<0.01, \*p\<0.05, CE=China English, SE=Standard English
 
-# Interview
+### Interview
 
 The qualitative data collected in this section is generally consistent with the
 quantitative one. A pretty high percent (92%) of our participants reported that
@@ -274,7 +274,7 @@ answered:
 
 ## Discussion
 
-# Research Question 1
+### Research Question 1
 
 Referring to the data, TESOL students do lack the knowledge of WE, whereas this
 disparity does not exist in ELF. The reason for this interesting phenomenon may
@@ -284,7 +284,7 @@ discrimination" but only its function as a bridge between people without a
 shared language. Therefore, WE can possibly help more on it because of its overt
 support on English diversity.
 
-# Research Question 2
+### Research Question 2
 
 It is surprising to observe that the majority of the participants embrace the
 English with a Chinese accent, and the high command on grammar acquisition is
@@ -306,7 +306,7 @@ positive items about China English are rated close to the median 3 as mentioned
 in the finding section, indicating China English is not perceived that negative
 by these individuals.
 
-# Research Question 3
+### Research Question 3
 
 Although most TESOL students announced that they will employ Standard English as
 their pedagogical model, the reason for that is not the preference to a native
@@ -317,7 +317,7 @@ it will accelerate students' learning. Furthermore, two TESOL students harbour
 pessimistic view on the advancement of China English, believing it cannot be
 adequately and fully defined in a society with only one official language.
 
-# Conclusion
+### Conclusion
 
 This fieldwork has assessed the sample's understanding of WE and ELF, their
 attitudes towards distinct English varieties, and their possible adoption on the
@@ -446,7 +446,7 @@ the language antidiscrimination of both China and the whole world.
 
 ## Appendix
 
-# Questionnaire Survey 1
+### Questionnaire Survey 1
 
 **1.Sex性别**
 
@@ -511,7 +511,7 @@ Englishes或English as a Lingua Franca的理解？**\*
 
 -   There is no standard English 没有标准英语一说
 
-# Questionnaire Survey 2
+### Questionnaire Survey 2
 
 #### Item 1.
 
@@ -532,7 +532,7 @@ absorb.
 Student E: employ all the syntax systems, even the informal sentence structure
 indigenous speakers apply while speaking.
 
-# Interview Question
+### Interview Question
 
 1.  What is your major?
 
@@ -564,7 +564,7 @@ indigenous speakers apply while speaking.
 
 11. Do you believe in these paradigms?
 
-# Match-Guise Transcript
+### Match-Guise Transcript
 
 1.  RP
 
@@ -583,4 +583,5 @@ revealing our friendships and our tastes. Each of these transactions leaves
 digital breadcrumbs which, when pulled together, offer increasingly
 comprehensive pictures of both individuals and groups, with the potential of
 transforming our understanding of our lives, organizations, and societies in a
-fashion that was barely conceivable just a few years ago.
+fashion that was barely conceivable just a few years ago.  
+
