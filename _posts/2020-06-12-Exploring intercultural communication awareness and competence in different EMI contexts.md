@@ -157,7 +157,7 @@ Table 2: Correlations among the constructsa
 
 |       |                |          |        |          |               |               |               |        |
 |-------|----------------|----------|--------|----------|---------------|---------------|---------------|--------|
-| NWTC  | NNWTC          | CWTC     | NICA   | NNICA    | CICA          | ICC           |               |        |
+|       |                | NWTC     | NNWTC  | CWTC     | NICA          | NNICA         | CICA          | ICC    |
 | NWTC  |                | [.662]b  |        |          |               |               |               |        |
 | NNWTC | *Spearman’s r* | .687\*\* | [.795] |          |               |               |               |        |
 |       | *Sig. (p)*     | .000     |        |          |               |               |               |        |
