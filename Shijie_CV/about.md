@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Shijie Wang"
+layout: default
+title: "Experiences"
 permalink: /Shijie_CV/
 ---
 
