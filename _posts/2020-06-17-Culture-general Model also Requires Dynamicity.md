@@ -5,7 +5,7 @@ date: 2020-06-17
 tag: short essay
 ---
 
-Introduction
+### Introduction
 
 After reviewing and criticising the previous investigations on politeness
 theory, the selected paper (Long, 2016) argued for a social cognitive model
@@ -43,9 +43,9 @@ implied by the model, they are, the single cognitive processing mechanism of
 relational work (salience) and the mutual-interest cooperative assumption of
 communication.
 
-1.  Analysis
+### Analysis
 
-    1.  Dynamic Nature of Expectations
+*Dynamic Nature of Expectations*
 
 Long (2016) formulated his model based on two lines of cognitive salience,
 operationalised to be ‘inside expectation’ and ‘outside expectation’. If a
@@ -125,7 +125,7 @@ correlatively to the anticipated change of role-relation expression. This
 phenomenon further rejects and complicates Long’s (2016) binary model on
 cognitive salience, which leads to the discussion at the affective level.
 
-1.  Affectively Unneutral Nature of Expectations
+*Affectively Unneutral Nature of Expectations*
 
 This section aims at examining the cognitive-affective tie proposed in Long’s
 (2016) model. Based on the binary model of cognitive salience, three
@@ -215,7 +215,7 @@ at this period should be judged by not only the finally expressed (or
 unexpressed) role-relation he took but also the earlier process of decision
 making which may inherently carry affective elements.
 
-1.  Culture-general, Culture-specific, and Individual Differences
+*Culture-general, Culture-specific, and Individual Differences*
 
 The two subsections above discussed the validity of Long’s (2016) model by
 assessing the logic and components within it, whereas this section will evaluate
@@ -282,7 +282,7 @@ that the compatibility of culture-general model to culture-specific one is of
 utmost importance. If the concepts involved in the model may conflict with that
 in the culture-specific models, the capacity will be significantly undermined.
 
-Conclusion
+### Conclusion
 
 The present essay critically reviewed the model proposed by Long (2016), which
 was reported to be a culture-general second order one. The first section
@@ -331,7 +331,7 @@ model is comprehensive and cumbersome. Quite differently, it could be simple
 because the ultimate aim of it is to explore whether a general process can be
 identified regardless of the individual differences and cultural elements.
 
-Bibliography
+### Bibliography
 
 >   Arundale, R. B. (2009). Face as emergent in interpersonal communication: An
 >   alternative to Goffman. In F. Bargiela-Chiappini & M. Haugh (Eds.), *Face,
@@ -365,7 +365,7 @@ Bibliography
 >   *Journal of Politeness Research*, *4*(2), 169–191. doi:
 >   10.1515/JPLR.2008.009
 
-Appendix
+### Appendix
 
 […]
 
