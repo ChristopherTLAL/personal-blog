@@ -80,7 +80,7 @@ considering one more role-relation expectation to each side, as shown in Figure
 more dimension of expectations or new role-relation will diversify the model
 exponentially.
 
-![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/8f54d1ec37acf7cc21b6b165044cb7c3.png)
+![](media/8f54d1ec37acf7cc21b6b165044cb7c3.png)
 
 Figure 1: The more complicated interaction model of relational work
 
@@ -108,7 +108,7 @@ as contrastive salience, neglecting the possibility that this shift *per se* may
 be expected or anticipated. As a partial revision, Figure 2 incorporates the
 evolving expectation into the original model.
 
-![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/eea1b92f976e0b0c2f133d74768a174c.png)
+![](media/eea1b92f976e0b0c2f133d74768a174c.png)
 
 Figure 2: Revised model for acquisition of apology-gratitude expressions
 (partial)
