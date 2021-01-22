@@ -134,7 +134,7 @@ cases, the marked terms are of A1B1A2B2 pattern, but the first two rows
 represent the habitual idioms with A1B1A2B2 base-forms and A1A2B1B2 marked forms
 which will be in comparison with the others.
 
-![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/9c795536ef896d36e8582b3808f3185e.png)
+![](media/9c795536ef896d36e8582b3808f3185e.png)
 
 It could be noticed that the marked A1B1A2B2 pattern usually would not be
 spotted as unintelligible. From Table 1, nearly 80% of the marked terms have an
@@ -220,7 +220,7 @@ that there might be other differences between these two groups apart from the
 stylistic feature. However, if a general pattern of stylistic difference can be
 identified, this is obviously a valuable starting point for future research.
 
-![](https://github.com/ChristopherTLAL/personal-blog/raw/master/_posts/media/cf4bc35671dd8a88f7b70b22f683f498.png)
+![](media/cf4bc35671dd8a88f7b70b22f683f498.png)
 
 Table 2 presents the descriptive data of the perceived style of two groups of
 terms. In some cases, the A1A2B1B2 terms which may be a daily usage (*Mean* =
