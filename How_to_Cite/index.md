@@ -15,8 +15,10 @@ permalink: /How_to_Cite/
 
 **Website Name**: The Linguist
 
+![](/citepic.png)
+
 ### APA Examples
 
 For the post entitled ['Will syntax harbour stylistic features? An exploration on the A1B1A2B2 pattern of Chinese idioms'](https://linguist.top/2019/12/17/Will-syntax-harbour-stylistic-features-An-exploration-on-the-A1B1A2B2-pattern-of-Chinese-idioms.html), you could cite it as follows:
 
->Wang, S. (2019, December 17). Will syntax harbour stylistic features? An exploration on the A1B1A2B2 pattern of Chinese idioms. *The Linguist*. https://linguist.top/2019/12/17/Will-syntax-harbour-stylistic-features-An-exploration-on-the-A1B1A2B2-pattern-of-Chinese-idioms.html
+  Wang, S. (2019, December 17). Will syntax harbour stylistic features? An exploration on the A1B1A2B2 pattern of Chinese idioms. *The Linguist*. https://linguist.top/2019/12/17/Will-syntax-harbour-stylistic-features-An-exploration-on-the-A1B1A2B2-pattern-of-Chinese-idioms.html
