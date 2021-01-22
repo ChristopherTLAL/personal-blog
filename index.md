@@ -1,1 +1,1 @@
-![pic](https://github.com/ChristopherTLAL/personal-blog/raw/master/Picture1.png)
+![pic](/Picture1.png)
