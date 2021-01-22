@@ -74,7 +74,7 @@ different formations of language are assigned with different construction types
 Table 2.1: 'examples of constructions, varying in size and complexity'
 (Goldberg, 2006, p. 5)
 
-![](media/d8dbc97c9ad6381d9324b3d60ebd3f73.png)
+![](/d8dbc97c9ad6381d9324b3d60ebd3f73.png)
 
 The present essay, corresponding to the cognitive explanation to the feature of
 idiomaticity, attempts to further consider the relation between lexicon and
@@ -98,7 +98,7 @@ creation, which both involves the combination of Chinese characters.
 [^1]: (there is still opposite ideas, and more details can see Bates, Chen, Li,
     Opie, & Tzeng, 1993 and also the references within)
 
-![](media/f2608556ffc8f98459103e2b35386631.png)
+![](/f2608556ffc8f98459103e2b35386631.png)
 
 Table 2.2 Comparison of Verb Conjugation Between Chinese and English
 
@@ -141,9 +141,9 @@ ancient Chinese read texts and separated sentences based on their preliminary
 knowledge of some sentence-level cooccurrence. It seems to prove that a long
 sentence can be a semantic unit as well.
 
-![](media/5e1b9b72b071d5eee2dfe62cbf4e412f.jpeg)
+![](/5e1b9b72b071d5eee2dfe62cbf4e412f.jpeg)
 
-![](media/5b422f974d37ef78b42a37007529f75f.jpeg)
+![](/5b422f974d37ef78b42a37007529f75f.jpeg)
 
 Figure 3.1: Chinese Texts without Punctuation
 
@@ -243,7 +243,7 @@ model based on Howarth's (1998) one.
 Table 5.1 classification scheme for multi-word expressions (Fernando, 1996, p.
 32)
 
-![](media/6246a683d2b18844802e867be1fdd25c.png)
+![](/6246a683d2b18844802e867be1fdd25c.png)
 
 The first two central concentrations are the beginning and ending of the model.
 The endings of Howarth's (1998) continuum of multiword expression are formal
@@ -308,7 +308,7 @@ idioms will be reconstructed to be four-character ones which is a prestigious
 form in language use. Limited by the length of this essay, more investigations
 will not be provided here.
 
-![](media/0d975ba0fe3c6c939f014c87a351fad3.png)
+![](/0d975ba0fe3c6c939f014c87a351fad3.png)
 
 Chart 5.2: Model for Construction Development
 
