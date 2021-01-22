@@ -1,3 +1,8 @@
+---
+layout: post
+title: "How to cite this blog?"
+permalink: /How_to_Cite/
+---
 ## How to cite this blog?
 ### Main Information
 
