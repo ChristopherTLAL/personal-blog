@@ -2,7 +2,7 @@
 layout: post
 title: "Mapping global research trend related to language teaching A scientometric review"
 date: 2021-01-23
-tag: conference presentation
+tag: presentation
 ---
 
 [DOI:10.13140/RG.2.2.15734.22084](https://www.researchgate.net/publication/348694103_Mapping_global_research_trend_related_to_language_teaching_A_scientometric_review)
