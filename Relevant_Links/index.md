@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: button
 title: "Relevant Links"
 permalink: /Relevant_Links/
 ---
