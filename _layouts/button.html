@@ -24,26 +24,16 @@
   text-align: center;
   font-size: 16px;
   padding: 20px;
-  width: 200px;
+  width: 180px;
   transition: all 0.5s;
   margin: 5px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
-.button span:after {
-  content: '»';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
+.button:hover {
+    background-color: #0070C0;
+    color: yellow;
 }
-.button:hover span {
-  padding-right: 25px;
-}
-.button:hover span:after {
-  opacity: 0;
-  right: 0;
-}
+          
 </style>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
