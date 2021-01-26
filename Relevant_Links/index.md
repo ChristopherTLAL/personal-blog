@@ -6,14 +6,14 @@ permalink: /Relevant_Links/
 <style>
 .button {
   display: inline-block;
-  border-radius: 4px;
-  background-color: #f4511e;
+  border-radius: 12px;
+  background-color: #1F497D;
   border: none;
-  color: #FFFFFF;
+  color: white;
   text-align: center;
-  font-size: 28px;
+  font-size: 16px;
   padding: 20px;
-  width: 200px;
+  width: 100px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
