@@ -12,9 +12,34 @@ permalink: /Relevant_Links/
     background-color: white;
     color: black;
     border: 2px solid #1F497D
-    border-radius: 5px;
+    border-radius: 12px;
+    cursor: pointer;
   }
+  .button1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  }
+
+  .button1 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+  } 
+  .button1:hover span {
+  padding-right: 25px;
+}
+
+  .button1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
   .button1:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: #1F497D;
     color: white;
   }
