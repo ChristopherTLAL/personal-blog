@@ -25,24 +25,6 @@
       <section>
 
       {{ content }}
-        <form action="http://linguist.top" method="get">
-    <div>
-      <SearchField Width="250" QuerySubmitted="mySearchField_QuerySubmitted"/>
-      private void mySearchField_QuerySubmitted(SearchField sender, 
-    SearchFieldQuerySubmittedEventArgs args)
-{
-    string search_term = mySearchField.Text;
-    var results = GetItemsResult(myDatabase);
-
-    //Populate a ListView or page with sorted results...
-}
-         <label for="search">Search:</label>
-         <input name="search" id="search">
-    </div>
-    <div>
-         <button>search</button>
-    </div>
-</form>
          <p class="view"><a href="Posts_by_Tags">View Posts by Tags</a></p>
         <div id="home">
     <h2>All Posts</h2>
