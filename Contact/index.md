@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Contact Me!"
+permalink: /contact/
+---
+
 **Email**
 
 ChristopherTLAL@outlook.com
