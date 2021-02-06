@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contact Me!"
-permalink: /contact/
+permalink: /Contact/
 ---
 
 **Email**
